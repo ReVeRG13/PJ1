@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Project_1\\Page1\\css"
+		},
+		{
+			"path": "..\\Project_1\\Page1\\map"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PJ"
+	}
+}
